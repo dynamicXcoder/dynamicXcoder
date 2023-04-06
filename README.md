@@ -2,6 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java projects
+- LeetCode: https://leetcode.com/dynamicXcoder/
 - 📫 How to reach me bless2baba@gmail.com
 - I am new to programing also i am a fast learner,
 - give me some suggestions to grow faster.
