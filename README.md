@@ -3,7 +3,7 @@
 - 🌱 Always eager to learn about technology.
 - 📫 bless2baba@gmail.com
 - 💞️ Reach me out to on my email, will be happy to colab on projects.
-- Skills: HTML, C++, Javascript, Tailwind CSS, React, DSA.
+- Skills: HTML, CSS, Javascript, Tailwind CSS, React, DSA, C++, Java.
 
 <!---
 dynamicXcoder/dynamicXcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
